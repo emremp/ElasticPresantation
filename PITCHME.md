@@ -53,5 +53,11 @@ Elasticsearch is developed in <strong>Java</strong> and is released as open sour
 
 +++
 
-#### Popular on 
+#### Popularity
 Elasticsearch is the most popular enterprise search engine followed by Apache Solr, also based on Lucene.
+
+#### Users
+* CERN
+* Netflix
+* Github
+* Facebook
