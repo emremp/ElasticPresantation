@@ -29,10 +29,6 @@ At the core of Lucene's logical architecture is the idea of a <strong>document</
 #### Elastic Search Technological Details
 Elasticsearch is developed in <strong>Java</strong> and is released as open source under the terms of the Apache License. Official clients are available in Java, .NET (C#), PHP, Python, Groovy and many other languages. 
 
-+++
-#### Market
-Elasticsearch is the most popular enterprise search engine followed by Apache Solr, also based on Lucene.
-
 ---
 
 ## History
@@ -45,11 +41,17 @@ Elasticsearch is the most popular enterprise search engine followed by Apache So
 
 <strong>Shay Banon</strong> created the precursor to Elasticsearch, called Compass, in 2004. While thinking about the third version of Compass he realized that it would be necessary to rewrite big parts of Compass to <strong>"create a scalable search solution"</strong>. So he created <strong>"a solution built from the ground up to be distributed"</strong> and used a common interface, <strong>JSON over HTTP</strong>, suitable for programming languages other than Java as well. Shay Banon released the first version of Elasticsearch in <strong>February 2010</strong>.
 
----
-#### Features 
-* Scalable
-* Ground up to be distributed
-* JSON over HTTP
-* Other then Java
++++
+#### Latest release (5.6 2017-09-11) 
+* Big changes on 2.0 to 5.0
+* migrate tools
 
-Latest release (5.6 2017-09-11) 
+---
+## Market and Users
+
+![Press Down Key](assets/down-arrow.png)
+
++++
+
+#### Popular on 
+Elasticsearch is the most popular enterprise search engine followed by Apache Solr, also based on Lucene.
