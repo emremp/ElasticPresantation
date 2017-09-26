@@ -15,8 +15,12 @@ Elasticsearch is a search engine based on <strong>Lucene</strong>. It provides a
 So what is <strong>Lucene</strong>?
 
 +++
+#### Not a complex detailed explanation.
 
 Apache Lucene is a free and open-source information retrieval software library.
+
++++
+#### But a good simple architecture.
 
 At the core of Lucene's logical architecture is the idea of a <strong>document</strong> containing <strong>fields</strong> of text. This flexibility allows Lucene's API to be independent of the file format. Text from PDFs, HTML, Microsoft Word, Mind Maps, and OpenDocument documents, as well as many others (except images), can all be indexed as long as their textual information can be extracted.
 
