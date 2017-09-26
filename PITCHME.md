@@ -10,7 +10,19 @@
 
 +++
 
-Elasticsearch is a search engine based on Lucene. It provides a distributed, multitenant-capable full-text search engine with an HTTP web interface and schema-free JSON documents. Elasticsearch is developed in Java and is released as open source under the terms of the Apache License. Official clients are available in Java, .NET (C#), PHP, Python, Groovy and many other languages.[2] Elasticsearch is the most popular enterprise search engine followed by Apache Solr, also based on Lucene.[3]
+Elasticsearch is a search engine based on <strong>Lucene</strong>. It provides a distributed, multitenant-capable full-text search engine with an HTTP web interface and <strong>schema-free JSON</strong> documents. 
+
+So what is <strong>Lucene</strong>?
+
++++
+
+Apache Lucene is a free and open-source information retrieval software library.
+
+At the core of Lucene's logical architecture is the idea of a <strong>document</strong> containing <strong>fields</strong> of text. This flexibility allows Lucene's API to be independent of the file format. Text from PDFs, HTML, Microsoft Word, Mind Maps, and OpenDocument documents, as well as many others (except images), can all be indexed as long as their textual information can be extracted.
+
++++
+
+Elasticsearch is developed in <strong>Java</strong> and is released as open source under the terms of the Apache License. Official clients are available in Java, .NET (C#), PHP, Python, Groovy and many other languages. Elasticsearch is the most popular enterprise search engine followed by Apache Solr, also based on Lucene.
 
 ---
 
