@@ -39,7 +39,7 @@ Elasticsearch is developed in <strong>Java</strong> and is released as open sour
 
 #### First release (0.4	2010-02-08) 
 
-<strong>Shay Banon</strong> created the precursor to Elasticsearch, called Compass, in 2004. While thinking about the third version of Compass he realized that it would be necessary to rewrite big parts of Compass to <strong>"create a scalable search solution"</strong>. So he created <strong>"a solution built from the ground up to be distributed"</strong> and used a common interface, <strong>JSON over HTTP</strong>, suitable for programming languages other than Java as well. Shay Banon released the first version of Elasticsearch in <strong>February 2010</strong>.
+<strong>Shay Banon</strong> created the precursor to Elasticsearch, called Compass, in 2004. While thinking about the third version of Compass he realized that it would be necessary to rewrite big parts of Compass to <strong>"create a scalable search solution"</strong>. So he created <strong>"a solution built from the ground up to be distributed"</strong> and used a common interface, <strong>JSON over HTTP</strong>, <strong>suitable for programming languages other than Java</strong> as well. Shay Banon released the first version of Elasticsearch in <strong>February 2010</strong>.
 
 +++
 #### Latest release (5.6 2017-09-11) 
@@ -56,8 +56,26 @@ Elasticsearch is developed in <strong>Java</strong> and is released as open sour
 #### Popularity
 Elasticsearch is the most popular enterprise search engine followed by Apache Solr, also based on Lucene.
 
++++
 #### Users
 * CERN
 * Netflix
 * Github
 * Facebook
+
+---
+## Integrated solution pieces (ELK Stack)
+
+![Press Down Key](assets/down-arrow.png)
+
++++
+
+#### Log Stash
+A data-collection and log-parsing engine
+
++++
+#### Kibana
+An analytics and visualisation platform 
+
+---
+## Workshop
