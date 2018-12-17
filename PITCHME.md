@@ -45,7 +45,9 @@ Elasticsearch is developed in <strong>Java</strong> and is released as open sour
 #### Latest release (6.5.3 2018-12-11) 
 * Simple scalable searh solution to modularized and extensible product compatible to companies
 
-![Logo](assets/elasticfeatures.PNG)
+<div class="left">
+    ![Image](assets/elasticfeatures.PNG)
+</div>
 
 +++
 ## Market and Users
