@@ -47,6 +47,7 @@ Elasticsearch is developed in <strong>Java</strong> and is released as open sour
 
 ![Logo](assets/elasticfeatures.PNG)
 
++++
 ## Market and Users
 
 ![Press Down Key](assets/down-arrow.png)
