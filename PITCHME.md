@@ -1,4 +1,4 @@
-## Elastic Search
+# Elastic Search
 ##### <span style="font-family:Helvetica Neue; font-weight:bold">A Fulltext Search Solution</span>
 
 ---
