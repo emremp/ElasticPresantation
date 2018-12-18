@@ -100,7 +100,7 @@ Kibana lets you visualize your Elasticsearch data and navigate the Elastic Stack
 @snapend
 
 @snap[east span-45]
-@img[shadow](https://www.elastic.co/assets/blta64b72a93b27e715/security-login.gif)
+@img[shadow](assets/elasticfeatures_security.PNG)
 @snapend
 
 +++
