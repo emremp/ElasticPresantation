@@ -43,8 +43,6 @@ Elasticsearch is developed in <strong>Java</strong> and is released as open sour
 #### Latest release (6.5.3 2018-12-11) 
 * Simple scalable searh solution to modularized and extensible product compatible to companies
 
-+++
-
 
 
 ## Market and Users
@@ -84,8 +82,6 @@ Logstash is an open source, server-side data processing pipeline that ingests da
 +++
 #### Kibana
 An analytics and visualisation platform 
-
-+++
 
 
 
