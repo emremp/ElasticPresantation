@@ -1,8 +1,4 @@
 # Elastic Search
-##### <span style="font-family:Helvetica Neue; font-weight:bold">A Fulltext Search Solution</span>
-
----
-
 ## Descriptions
 
 ![Press Down Key](assets/down-arrow.png)
