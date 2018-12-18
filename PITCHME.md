@@ -45,9 +45,6 @@ Elasticsearch is developed in <strong>Java</strong> and is released as open sour
 #### Latest release (6.5.3 2018-12-11) 
 * Simple scalable searh solution to modularized and extensible product compatible to companies
 
-![Logo](assets/elasticfeatures_security.PNG)
-
-+++
 ## Market and Users
 
 ![Press Down Key](assets/down-arrow.png)
@@ -80,9 +77,16 @@ The heart of the Elastic Stack
 #### Log Stash
 A data-collection and log-parsing engine
 
+Logstash is an open source, server-side data processing pipeline that ingests data from a multitude of sources simultaneously, transforms it, and then sends it to your favorite “stash.” (Ours is Elasticsearch, naturally.)
+
 +++
 #### Kibana
 An analytics and visualisation platform 
+
+
+## Stack Features
+
+![Logo](assets/elasticfeatures_security.PNG)
 
 ---
 ## Workshop
