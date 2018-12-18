@@ -6,8 +6,6 @@
 ## Descriptions
 
 ![Press Down Key](assets/down-arrow.png)
-
-
 +++
 #### What is Elastic Search?
 
@@ -46,6 +44,9 @@ Elasticsearch is developed in <strong>Java</strong> and is released as open sour
 * Simple scalable searh solution to modularized and extensible product compatible to companies
 
 +++
+
+
+
 ## Market and Users
 
 ![Press Down Key](assets/down-arrow.png)
@@ -85,6 +86,9 @@ Logstash is an open source, server-side data processing pipeline that ingests da
 An analytics and visualisation platform 
 
 +++
+
+
+
 ## Stack Features
 
 ![Logo](assets/elasticfeatures_security.PNG)
