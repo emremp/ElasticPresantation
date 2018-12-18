@@ -75,23 +75,40 @@ The heart of the Elastic Stack
 +++
 
 #### Log Stash
-A data-collection and log-parsing engine
-
 Logstash is an open source, server-side data processing pipeline that ingests data from a multitude of sources simultaneously, transforms it, and then sends it to your favorite “stash.” (Ours is Elasticsearch, naturally.)
 
 +++
 #### Kibana
-An analytics and visualisation platform 
+Kibana lets you visualize your Elasticsearch data and navigate the Elastic Stack, so you can do anything from learning why you're getting paged at 2:00 a.m. to understanding the impact rain might have on your quarterly numbers.
 
 ---
 ## Stack Features
 ![Press Down Key](assets/down-arrow.png)
-+++
-
-![Logo](assets/elasticfeatures_security.PNG)
+From enterprise-grade security and developer-friendly APIs to machine learning, and graph analytics, the Elastic Stack ships with features (formerly packaged as X-Pack) made and maintained by us to be enjoyed by you.
 
 +++
 
-![Logo](assets/elasticfeatures_security.PNG)
+---?color=#E58537
+
+@snap[north-west]
+#### Security
+@snapend
+
+@snap[west span-55]
+@ul[spaced text-white]
+- Authenticate with Active Directory, LDAP, or the Elasticsearch native realm. Use single sign-on (SSO) options like certificates, Kerberos, and SAML — or build a custom realm that supports your home-grown identity management system.
+- What you can achieve
+- *With a little imagination...*
+- And **GitPitch Markdown**
+@ulend
+@snapend
+
+@snap[east span-45]
+@img[shadow](assets/elasticfeatures_security.PNG)
+@snapend
+
++++
+
+![Logo](assets/elasticfeatures_alerting.PNG)
 ---
 ## Workshop
