@@ -90,7 +90,7 @@ Kibana lets you visualize your Elasticsearch data and navigate the Elastic Stack
 
 +++
 
-@snap[west span-55]
+@snap[west span-85]
 @ul[spaced]
 - Authenticate with Active Directory, LDAP, or the Elasticsearch native realm. Use single sign-on (SSO) options like certificates, Kerberos, and SAML — or build a custom realm that supports your home-grown identity management system.
 - What you can achieve
@@ -99,7 +99,7 @@ Kibana lets you visualize your Elasticsearch data and navigate the Elastic Stack
 @ulend
 @snapend
 
-@snap[east span-45]
+@snap[east span-15]
 @img[shadow](assets/elasticfeatures_security.PNG)
 @snapend
 
