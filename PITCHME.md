@@ -92,7 +92,7 @@ Kibana lets you visualize your Elasticsearch data and navigate the Elastic Stack
 
 @snap[west span-75 text-06]
 @ul[spaced]
-- Authenticate with Active Directory, LDAP, or the Elasticsearch native realm. Use single sign-on (SSO) options like certificates, Kerberos, and SAML — or build a custom realm that supports your home-grown identity management system.
+- Authenticate with Active Directory, LDAP, or the Elasticsearch native realm. 
 - Grant the IT/Ops team the ability to monitor Elasticsearch cluster health without being able to see or modify the data. Or give the marketing team read-only access to marketing-specific data, but deny access to other indices. User privileges extend to Kibana, too. Group dashboards, visualizations, and saved searches into spaces by team, function, or any way you choose — and control who can access which space.
 - With SSL/TLS encryption, you can secure node-to-node, HTTP, and transport client traffic across your Elastic Stack. IP filtering also prevents unapproved hosts from joining or communicating with your cluster.
 - Layered Security - Cluster, Indexes, Document, Fields
