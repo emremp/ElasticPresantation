@@ -12,12 +12,3 @@
   border: none;
   box-shadow: none;
 }
-
-.reveal a {
-  color: rgb(10, 1, 1);
-}
-
-.reveal a:hover {
-  color: white;
-  font-weight: bold;
-}
