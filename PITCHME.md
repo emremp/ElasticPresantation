@@ -143,6 +143,55 @@ Kibana lets you visualize your Elasticsearch data and navigate the Elastic Stack
 @img[shadow](assets/elasticfeatures_reporting.PNG)
 @snapend
 
++++
+
+@snap[west span-75 text-06]
+@ul[spaced]
+- There are potential relationships living among the documents in your Elastic Stack; linkages between people, places, preferences, products, you name it. Graph offers a relationship-oriented approach that lets you explore the connections in your data using the relevance capabilities of Elasticsearch.
+- A single link in a graph may represent thousands of documents, like banking transactions between two accounts. The Graph UI in Kibana lets you visualize these connections.
+- Drill down into the details using any of the maps, timelines, pie charts, or raw document visualizations in Kibana. Click through and interact with your graph of networked entities, view the strength of connections, and even customize colors and icons.
+@ulend
+@snapend
+
+@snap[east span-25]
+@img[shadow](assets/elasticfeatures_graph.PNG)
+@snapend
+
++++
+
+@snap[west span-75 text-06]
+@ul[spaced]
+- Complex, fast-moving datasets make it nearly impossible to spot infrastructure problems, intruders, or business issues as they happen using rules or humans looking at dashboards. Elastic machine learning features automatically model the behavior of your Elasticsearch data — trends, periodicity, and more — in real time to identify issues faster, streamline root cause analysis, and reduce false positives.
+@ulend
+@snapend
+
+@snap[east span-25]
+@img[shadow](assets/elasticfeatures_machinelearning.PNG)
+@snapend
+
++++
+
+@snap[west span-75 text-06]
+@ul[spaced]
+- Elasticsearch has the speed, scale, and flexibility your data needs — and it speaks SQL. Use traditional database syntax to unlock non-traditional performance, like full text search across petabytes of data with real-time results.
+@ulend
+@snapend
+
+@snap[east span-25]
+@img[shadow](assets/elasticfeatures_sql.PNG)
+@snapend
+
++++
+
+@snap[west span-75 text-06]
+@ul[spaced]
+- You've arrived at your creative space for live Elasticsearch data. Play with color palettes, add your own CSS elements, drag and drop assets — and turn your presentations and reports into dynamic, infographic-style works of art.
+@ulend
+@snapend
+
+@snap[east span-25]
+@img[shadow](assets/elasticfeatures_canvas.PNG)
+@snapend
 
 ---
 ## Workshop
