@@ -60,7 +60,7 @@ Elasticsearch is the most popular enterprise search engine followed by Apache So
 * Netflix
 * Github
 * Facebook
-* Goldman Sachs @color[cyan]https://www.informationweek.com/software/enterprise-applications/goldman-sachs-puts-elasticsearch-to-work/d/d-id/1321778
+* Goldman Sachs https://www.informationweek.com/software/enterprise-applications/goldman-sachs-puts-elasticsearch-to-work/d/d-id/1321778
 
 ---
 ## ELK Stack
