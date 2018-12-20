@@ -87,7 +87,7 @@ Kibana lets you visualize your Elasticsearch data and navigate the Elastic Stack
 ## Stack Features
 ![Press Down Key](assets/down-arrow.png)
 
-<span>From enterprise-grade security and developer-friendly APIs to machine learning, and graph analytics, the Elastic Stack ships with features (formerly packaged as X-Pack) made and maintained by us to be enjoyed by you.
+<span>From enterprise-grade security and developer-friendly APIs to machine learning, and graph analytics, the Elastic Stack ships with features (formerly packaged as <strong>X-Pack</strong>) made and maintained by us to be enjoyed by you.
 </span>
 
 +++
@@ -109,6 +109,40 @@ Kibana lets you visualize your Elasticsearch data and navigate the Elastic Stack
 
 +++
 
-![Logo](assets/elasticfeatures_alerting.PNG)
+@snap[west span-75 text-06]
+@ul[spaced]
+- CPU usage is unexpectedly increasing. Application response time is spiking. 503 errors are skyrocketing. Elasticsearch indexing rate has plummeted. But you're on top of it before anyone notices because our alerting features keep you in the know.
+@ulend
+@snapend
+
+@snap[east span-25]
+@img[shadow](assets/elasticfeatures_alerting.PNG)
+@snapend
+
++++
+
+@snap[west span-75 text-06]
+@ul[spaced]
+- The Elastic Stack is the engine powering critical systems across your organization, business, and team. Keep a pulse on how it's performing to make sure you're getting the very most out of it. Elastic Stack monitoring features provide you visibility into how your Elastic Stack is running.
+@ulend
+@snapend
+
+@snap[east span-25]
+@img[shadow](assets/elasticfeatures_monitoring.PNG)
+@snapend
+
++++
+
+@snap[west span-75 text-06]
+@ul[spaced]
+- Quickly generate reports of any Kibana visualization or dashboard. Get a report on demand, schedule it for later, trigger it based on specified conditions, and automatically share it with others — managers, customers, compliance officers. It's architected to scale and travel well, letting you take a piece of Kibana anywhere you like.
+@ulend
+@snapend
+
+@snap[east span-25]
+@img[shadow](assets/elasticfeatures_reporting.PNG)
+@snapend
+
+
 ---
 ## Workshop
